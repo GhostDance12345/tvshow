@@ -1,0 +1,8 @@
+{
+"versionCode":101,
+"versionName": "1.0.1",
+"updateStatus": 1, //0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
+"apkSize": 2048,
+"modifyContent": "1、优化api接口。\r\n2、新增自定义更新服务API接口。\r\n3、优化更新提示界面。",
+"downloadUrl":"123456"
+}
